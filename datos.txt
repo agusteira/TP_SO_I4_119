@@ -5,3 +5,8 @@ a- Testing: blue
 b- Desarrollo: Yellow
 c- Master: Green
 d- Favicon: el de alfa
+e- Ninguno tuvo problemas
+f-No hubo
+g- -
+h-
+i-
