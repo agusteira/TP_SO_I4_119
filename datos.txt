@@ -8,5 +8,5 @@ d- Favicon: el de alfa
 e- Ninguno tuvo problemas
 f-No hubo
 g- -
-h-
-i-
+h-Sobreescribe toda la rama del repositorio, con la rama local
+i-Hacer paso a paso, primero sube uno, despues el otro lo pulea y lo sube, y asi
