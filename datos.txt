@@ -1,0 +1,7 @@
+Agustin Teira
+Mateo Malatto
+
+a- Testing: blue
+b- Desarrollo: Yellow
+c- Master: Green
+d- Favicon: el de alfa
